@@ -70,7 +70,7 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
 <br><br>
 
 - 👨‍💻 My Portfolio [https://developermaroof.netlify.app/](https://developermaroof.netlify.app/)
-- 📫 How to reach me **developermaroof@gmail.com**
+- 📫 How to reach me **maroof@devnito.com**
 - ⚡ Fun fact **I Love Coding**
 
 <br>
@@ -186,21 +186,21 @@ Beyond my technical skills, I bring strong experience in cross-functional collab
 <h3 align="left">🏆 GitHub Trophies</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=developermaroof" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=maroof-devnito" alt="trophies" />
   </a>
 </p>
 
 <!-- GitHub Stats Card -->
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developermaroof&show_icons=true&theme=radical" alt="developermaroof" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maroof-devnito&show_icons=true&theme=radical" alt="maroof-devnito" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermaroof&show_icons=true&locale=en&layout=compact" alt="developermaroof" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maroof-devnito&show_icons=true&locale=en&layout=compact" alt="maroof-devnito" />
 </p>
 <br><br>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=developermaroof&label=Profile%20views&color=0e75b6&style=flat" alt="developermaroof" />
+  <img src="https://komarev.com/ghpvc/?username=maroof-devnito&label=Profile%20views&color=0e75b6&style=flat" alt="maroof-devnito" />
 </p>
